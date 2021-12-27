@@ -27,6 +27,6 @@ mandatory:
 ### Examples:
 
 +  `$ python noPac-detection.py MARVEL.local/pparker:P#%DG323c89 -targetUser fcastle -dc-ip 192.168.10.13`
-![1.png](./resources/1.png)
+![1.png](./resources/image.png)
 
 ***
